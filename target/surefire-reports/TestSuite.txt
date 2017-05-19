@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.801 sec <<< FAILURE! - in TestSuite
+shouldWork(cars.tests.CarsTest)  Time elapsed: 0.009 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at cars.tests.CarsTest.shouldWork(CarsTest.java:44)
+
